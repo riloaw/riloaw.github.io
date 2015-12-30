@@ -380,3 +380,7 @@ footer:after {
   content: "";
   display: block;
 }
+.about {
+  font-size:14px;
+  line-height: 15px;
+}
