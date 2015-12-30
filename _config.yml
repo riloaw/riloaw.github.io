@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://riloaw.github.io
+title: Rizal Loa Wanda
+email: rizal.loa@raharja.info
+author: Rizal Loa Wanda
+description: Ini Tentang Saya Rizal Loa
+paginate: 5
+google_analytics: 
