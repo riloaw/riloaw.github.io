@@ -7,7 +7,7 @@ categories: [blog]
 ---
 selamat datang... ini adalah halaman halo dunia :v
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/4OyoWAZEcIE/0.jpg)](http://www.youtube.com/watch?v=4OyoWAZEcIE)
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.
+Lorem ipsum dolor sit amet, <!-- more --> consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.
 Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.
 Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.
