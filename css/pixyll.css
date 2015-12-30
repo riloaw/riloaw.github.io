@@ -87,7 +87,26 @@ body {
 .posts .post a:hover .post-summary {
   opacity: 0.88;
 }
+.post-summary h1 {
+  font-size: 33.75px;
+  color: #333;
+}
 
+.post-summary h2 {
+  font-size: 26.25px;
+  color: #333;
+}
+
+.post-summary h3 {
+  font-size: 18.75px;
+  color: #333;
+}
+
+.post-summary img {
+  max-width: 400px;
+  float:left;
+  margin-right:10px;
+}
 .posts {
   margin: 0;
 }
