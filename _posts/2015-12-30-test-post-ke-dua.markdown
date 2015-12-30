@@ -5,6 +5,7 @@ layout: post
 tags: [artikel]
 categories: [blog]
 ---
+<img src="http://dummyimage.com/600x200/75a1ff/fff.png&text=Test" />
 Curabitur non eros. Nullam hendrerit bibendum justo. Fusce iaculis, est quis lacinia pretium, pede metus molestie lacus, at gravida wisi ante at libero.
 Quisque ornare placerat risus. Ut molestie magna at mi. Integer aliquet mauris et nibh.
 Ut mattis ligula posuere velit. Nunc sagittis. Curabitur varius fringilla nisl. <!-- more -->
