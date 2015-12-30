@@ -2,6 +2,7 @@
 published: true
 title: Halo Dunia :v
 layout: post
+comments: true
 tags: [artikel]
 categories: [blog]
 ---
