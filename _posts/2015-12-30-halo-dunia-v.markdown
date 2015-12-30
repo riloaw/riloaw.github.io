@@ -6,7 +6,7 @@ tags: [artikel]
 categories: [blog]
 ---
 selamat datang... ini adalah halaman halo dunia :v
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](http://dummyimage.com/600x200/000/fff.png&text=images+:v "Logo Title Text 1")
 Lorem ipsum dolor sit amet, <!-- more --> consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.
 ```javascript
 var s = "JavaScript syntax highlighting";
