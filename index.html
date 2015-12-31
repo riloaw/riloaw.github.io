@@ -16,8 +16,8 @@ layout: default
             <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{post.url}}" style="float:right;"></a> 
           </p>
           <p class="post-summary">
-          {% if post.content contains "<!-- more -->" %}
-            {{ post.content | split:"<!-- more -->" | first % }}
+          {% if post.content contains "[========]" %}
+            {{ post.content | split:"[========]" | first % }}
           {% else %}
             {{ post.content | strip_html | truncatewords:50 }}
           {% endif %}
